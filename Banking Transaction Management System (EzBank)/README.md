@@ -2,7 +2,6 @@
 
 This project demonstrates the implementation of a modern **Microservices Architecture** using a variety of industry-standard technologies. The goal is to showcase scalable, secure, and fault-tolerant services built with **Java**, **Spring Boot**, and **Spring Cloud**, running on **Docker** and **Kubernetes**.
 
-**This is still a ongoing project**
 
 ## Key Technologies & Features
 
